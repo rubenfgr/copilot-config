@@ -1,0 +1,3 @@
+[submodule "awesome-copilot"]
+	path = awesome-copilot
+	url = https://github.com/rubenfgr/awesome-copilot
