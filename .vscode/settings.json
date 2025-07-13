@@ -23,12 +23,4 @@
     "*.instructions.md": "markdown",
     "*.prompt.md": "markdown"
   },
-  "git.inputValidation": true,
-  "git.inputValidationLength": 72,
-  "git.inputValidationSubjectLength": 50,
-  "scm.inputFontFamily": "monospace",
-  "git.useCommitInputAsStashMessage": true,
-  "git.defaultCommitLanguage": "en",
-  "scm.defaultViewMode": "tree",
-  "locale": "en"
 }
