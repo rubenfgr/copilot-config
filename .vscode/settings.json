@@ -1,0 +1,34 @@
+{
+  "chat.modeFilesLocations": {
+    ".copilot/chatmodes": true
+  },
+  "chat.promptFilesLocations": {
+    ".copilot/prompts": true
+  },
+  "chat.instructionsFilesLocations": {
+    ".copilot/instructions": true
+  },
+  "files.eol": "\n",
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "[markdown]": {
+    "files.trimTrailingWhitespace": false,
+    "editor.formatOnSave": true
+  },
+  "editor.rulers": [
+    100
+  ],
+  "files.associations": {
+    "*.chatmode.md": "markdown",
+    "*.instructions.md": "markdown",
+    "*.prompt.md": "markdown"
+  },
+  "git.inputValidation": true,
+  "git.inputValidationLength": 72,
+  "git.inputValidationSubjectLength": 50,
+  "scm.inputFontFamily": "monospace",
+  "git.useCommitInputAsStashMessage": true,
+  "git.defaultCommitLanguage": "en",
+  "scm.defaultViewMode": "tree",
+  "locale": "en"
+}
